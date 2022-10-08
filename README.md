@@ -1,7 +1,10 @@
 # 227-Hours-Spanish-Speech-Data-by-Mobile-Phone_Reading
-https://www.datatang.ai/datasets/116
+
+
 ## Description
 The data volumn is 227 hours. It is recorded by Spanish native speakers from Spain, Mexico and Venezuela. It is recorded in quiet environment. The recording contents cover various fields like economy, entertainment, news and spoken language. All texts are manually transcribed. The sentence accurate is 95%.
+
+For more details, please refer to the link: https://bit.ly/3dJ9wHQ
 
 ## Format
 16kHz, 16bit, uncompressed wav, mono channel
@@ -29,3 +32,7 @@ text, time point of speech data, 5 noise symbols, special identifiers
 
 ## Application scenarios
 speech recognition, voiceprint recognition
+
+# Licensing Information
+Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+
